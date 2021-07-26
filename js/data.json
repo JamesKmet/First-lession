@@ -1,0 +1,11 @@
+var student =[
+{
+  "id":101,
+  "name": "Artoria"
+},
+{
+  "id":102,
+  "name": "Rin"
+},
+
+];

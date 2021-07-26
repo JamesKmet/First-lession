@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body{
+  background: grey;
+}
+.card-text{
+  color: black;
+}
+
+#objects{
+  color: black;
+}
+
+.card-img-top{
+  margin: 5px;
+}
